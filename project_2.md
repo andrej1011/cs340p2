@@ -1,5 +1,5 @@
-Overview
---------
+Project 2 - Overview
+--------------------
 
 In this assignment, you will design a reliable streaming transport protocol on top of UDP.  Essentially, you are building a simplified version of TCP.
 
@@ -243,3 +243,8 @@ Submission
 ### Sharing files with your partner using git
 
 I recommend that you create a git repository for your code and use [Bitbucket](https://bitbucket.org/) to share the repository with your partner.  Each of you will be able to work on your own copy of the code, and periodically push updates to the central repository.  I recommend Bitbucket instead of Github because private repositories are free on Bitbucket (and it would be a violation of our cheating policy to post your code on a public repository).
+
+--------------------
+### Copyright to prof. Steve Tarzia
+
+[https://stevetarzia.com](https://stevetarzia.com)
